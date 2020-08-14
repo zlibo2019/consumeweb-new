@@ -1,0 +1,215 @@
+/*
+开户
+*/
+.openAccount_linkbutton{
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+	margin-top:20px;
+	margin-right:10px;
+}
+
+.openAccount_toolBar_first{
+	margin-top:15px;
+}
+
+.openAccount_toolBar_first .div1{
+	display:inline-block;
+	vertical-align: middle;
+	margin-left:20px;
+}
+
+.openAccount_toolBar_first .div2{
+	display:inline-block;
+	margin-left:10px;
+	color:#2274B9;
+	font-size: 15px;
+}
+
+.openAccount_toolBar_first .div3{
+	display:inline-block;
+	vertical-align: middle;
+	margin-left:50px;
+	margin-right:50px;
+}
+
+.openAccount_toolBar_first .div4{
+	display:inline-block;
+	vertical-align: middle;
+}
+
+.openAccount_toolBar_first .div5{
+	display:inline-block;
+	color:#999999;
+	font-size: 15px;
+}
+
+.openAccount_toolBar_second{
+	height:50px;
+	/* margin-top:15px; */
+	margin-bottom:20px;
+	/* border-top:1px solid #DCDCDC; */
+	border-bottom:1px solid #DCDCDC;
+}
+
+.openAccount_toolBar_second>div{
+	margin:12px 0 0 5px;
+	display:inline-block;
+}
+
+.openAccount_toolBar_second>div>label{
+	width:63px;
+	height:23px;
+	margin:0 5px 0 0;
+	padding-top:5px;
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+}
+
+.openAccount_toolBar_second>div>a{
+	margin-left:5px;
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+}
+
+.openAccount_toolBar_second>div>span{
+	margin-right:40px;
+}
+
+.openAccount_toolBar_second>div>span>a{
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+}
+
+.openAccount_toolBar_third{
+	margin-bottom:10px;
+}
+
+.openAccount_toolBar_third>div{
+	display:inline-block;
+	vertical-align: middle;
+	height:80px;
+}
+
+.openAccount_toolBar_third .first_div div:first-child{
+	margin-bottom:15px;
+}
+
+.openAccount_toolBar_third .first_div{
+	margin-left:10px;
+}
+
+.openAccount_toolBar_third .first_div .first_div_span{
+	margin-left:5px;
+	margin-right:5px;
+}
+
+.openAccount_toolBar_third>div>a{
+	margin-left:15px;
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+}
+
+.openAccount_toolBar_third .third_div{
+	font-size:16px;
+	height: 50px; 
+	margin-left:70px;
+	margin-top: 10px;
+}
+
+.openAccount_toolBar_third .fourth_div{
+	float:right;
+}
+
+.openAccount_toolBar_third .fourth_div div:first-child{
+	margin-bottom:15px;
+}
+
+.openAccount_toolBar_third .fourth_div .fourth_div_span{
+	margin-left:5px;
+	margin-right:5px;
+}
+
+.openAccount_file_input{
+	position: absolute;
+	top: -999px;
+	left: -999px;
+}
+
+.openAccount_south_div{
+	text-align:center;
+	position:relative;
+}
+
+.openAccount_south_div .print_linkbutton{
+	position:absolute;
+	top:30px;
+	right:130px;
+}
+
+.openAccount_south_div .cancel_linkbutton{
+	position:absolute;
+	top:30px;
+	right:40px;
+}
+
+.openAccount_checkbox{
+	vertical-align:middle; 
+	margin-top:-2px; 
+}
+
+.openAccount_configWin_westdiv{
+	border-right:solid 1px #dcdcdc;
+	border-bottom:solid 1px #dcdcdc;
+	height:460px;
+	width:300px;
+}
+
+.openAccount_configWin_southdiv{
+	text-align:center;
+	margin-top:8px;
+}
+
+.openAccount_configWin_southdiv a{
+	margin-right:10px;
+	margin-left:10px;
+}
+
+.openAccount_configWin_eastdiv_1{
+	height:65px;
+	line-height:100px;
+	margin-left:20px;
+}
+
+.openAccount_configWin_eastdiv_1 .east_div_span{
+	margin-right:5px;
+}
+
+.openAccount_configWin_eastdiv_1_2{
+	color:red;
+	height:25px;
+	margin-left:7px;
+}
+
+.openAccount_configWin_eastdiv_2{
+	height:50px;
+	line-height:30px;
+	margin-left:20px;
+}
+
+.openAccount_configWin_eastdiv_2 .east_div_span{
+	margin-right:5px;
+}
+
+.openAccount_resultWin_southdiv{
+	text-align:center;
+}
+
+.openAccount_resultWin_southdiv a{
+	margin-right:20px;
+	margin-left:18px;
+}

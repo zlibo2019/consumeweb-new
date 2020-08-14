@@ -1,0 +1,105 @@
+/*
+自动模式定义
+*/
+.autoModeDefine_linkbutton{
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+	margin:0 20px 0px 55px;
+}
+
+.autoModeDefine_west_div{
+	border-right:1px solid #dcdcdc;
+}
+
+.autoModeDefine_west_div .first_div{
+	background:#48A5F2;
+	color:#ffffff;
+	height:30px;
+	font-size:14px;
+	line-height:30px;
+}
+
+.autoModeDefine_west_div .first_div img{
+	display:inline-block;
+    vertical-align: middle;
+	margin:0 10px 2px 10px;
+}
+
+.autoModeDefine_west_div .first_div span{
+	display:inline-block;
+    vertical-align: middle;
+}
+
+.autoModeDefine_addDep_div>div{
+	margin-top:30px;
+}
+
+.autoModeDefine_addDep_div .autoModeDefine_addDep_span{
+	margin-left:20px;
+	margin-right:10px;
+}
+
+.autoModeDefine_toolBar .first_div{
+	margin-left:20px;
+	height:28px;
+}
+
+.autoModeDefine_toolBar .first_div>a{
+	margin-right:20px;
+}
+
+.autoModeDefine_addMode{
+	
+}
+.autoModeDefine_addMode>div>fieldset{
+	margin:10px 0 0 16px;
+}
+
+.autoModeDefine_addMode>div>fieldset>legend{
+	font-weight:bold;
+	font-size:16px;
+}
+
+.autoModeDefine_addMode>div>fieldset>div>div{
+	margin-top:5px;
+}
+
+.autoModeDefine_addMode>div>fieldset>div>div>span{
+	font-size:14px;
+	margin-right:5px;
+}
+
+.autoModeDefine_addMode_button_div{
+	text-align:center;
+    margin-top: 25px;
+}
+
+.autoModeDefine_addMode_linkbutton{
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+	margin:4px;
+}
+
+.autoModeDefine_addMode_first{
+	text-align:left;
+	margin-left:10px;
+}
+
+.autoModeDefine_addMode_second{
+	text-align:left;
+	margin-left:10px;
+}
+
+.autoModeDefine_addMode_first>div:first-child{
+	margin-bottom:10px;
+}
+
+.autoModeDefine_addMode_second>div>div>span{
+	margin-left:5px;
+}
+
+.icon-import {/*导出*/
+	background: url('../image/icon02.gif') no-repeat center center;
+}

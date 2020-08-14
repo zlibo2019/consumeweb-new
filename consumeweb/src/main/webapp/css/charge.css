@@ -1,0 +1,223 @@
+/**
+*充值
+*/
+
+.charge_linkbutton{
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+	margin-top:20px;
+	margin-right:50px;
+}
+
+
+.charge_chaxun{
+	margin-left:5px;
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+}
+
+.charge_line{
+	font-weight:bold;
+	background-color:rgb(248, 248, 248);
+	height:35px;
+	line-height:35px;
+	border-top:1px solid #DCDCDC;
+	border-bottom:1px solid #DCDCDC;
+	border-right: 1px solid #DCDCDC;
+}
+.charge_line>span{
+	margin-left:20px;
+}
+.charge_userinfo{
+	margin-top:24px;
+}
+.charge_div{
+	width:440px;
+	display:inline-block;
+	vertical-align: middle;
+}
+.charge_div>div{
+	margin-bottom:15px;
+	float:left;
+	height: 30px;
+    line-height: 30px;
+}
+.charge_div .charge_div_span{
+	margin-left:5px;margin-right:5px;
+}
+.charge_center_bottom_all{
+	height:95%;
+	border-bottom:1px solid #DCDCDC;
+}
+.charge_center_bottom{
+	height:55%;
+	border-bottom:1px solid #DCDCDC;
+}
+.charge_center_bottom_left_div1{
+	font-size:16px;
+	/* height: 60px;
+    line-height: 120px; */
+    height:20%;
+}
+/*页面中间布局底部 add by LYh*/
+.charge_bottom{
+	height:45%;
+	overflow:auto;
+}
+
+.charge_bottom_div{  
+   /*  height:100%;  */
+    padding: 5px 5px 0px 5px;
+    margin: 15px 15px 5px 15px;
+    border:1px solid #DCDCDC;
+}
+.charge_bottom_span{
+	font-weight:bold;
+	display:block; 
+    width:100px; 
+    height:30px; 
+    position:relative; 
+    top:-15px; 
+    text-align: center; 
+    background: white;
+}
+.charge_bottom_aftertext{
+	width:87px;
+	margin-left:20px;
+	margin-right:5px;
+	text-align: right;
+    line-height: 30px;
+}
+
+.charge_beforetext{
+	margin-left:20px;
+	margin-right:5px;
+	font-weight:bold;
+}
+.charge_beforemoeny{
+	margin-right:5px;
+	font-size:25px;
+	color:gray;
+}
+.charge_after{
+	/* margin-top:60px; */
+	height:20%;
+	font-size:16px;
+}
+.charge_aftertext{
+	margin-left:20px;
+	margin-right:5px;
+	font-weight:bold;
+}
+.charge_aftermoney{
+	margin-right:5px;
+	font-size:25px;
+	color:red;
+}
+.charge_inputmoney{
+	/* margin-top:60px; */
+	height:20%;
+}
+.charge_inputmoney>span:first-child{
+	margin-left:20px;
+	margin-right:5px;
+}
+.charge_input_button{
+	margin-left:15px;
+	/* margin-top:10px; */
+	height:20%;
+}
+.charge_other{
+	/* margin-top:30px; */
+	height:20%;
+	margin-bottom:20px;
+}
+
+.charge_other>div>div>input{
+	margin-left:20px;
+	margin-right:5px;
+}
+.charge_south{
+	text-align:center;
+	position:relative;
+}
+.charge_button_batch{
+	position:absolute;
+	right:220px;
+	top:30px;
+}
+.charge_button_print{
+	position:absolute;
+	right:130px;
+	top:30px;
+}
+.charge_button_cancel{
+	position:absolute;
+	right:40px;
+	top:30px;
+}
+
+.charge_searchWin{
+	text-align:center;
+}
+
+.charge_searchWin>fieldset{
+	margin:10px 0 0 10px;
+}
+
+.charge_searchWin>fieldset>legend{
+	font-weight:bold;
+	font-size:16px;
+	text-align:left;
+}
+
+.charge_searchWin>div:last-child{
+	margin-top:10px;
+}
+
+.charge_searchWin_linkbutton{
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+}
+
+.charge_checkbox{
+	vertical-align:middle; 
+	margin-top:-2px; 
+}
+
+.charge_item{
+	position:absolute;
+	height:300px;
+	width:250px;
+	bottom:100px;
+	left:450px;
+	text-align:center;
+	background:lightgray;;
+}
+
+.only_for_print{
+	display:none; 
+}
+
+.charge_item .charge_item_upDiv{
+	font-size:17px;
+	margin-top:20px;
+}
+
+.charge_item .charge_item_downDiv{
+	text-align:left;
+	margin-left:25%;
+	margin-top:30px;
+}
+
+.charge_item_downDiv div{
+	font-size:15px;
+	margin-top:10px;
+}
+
+.layoutEx .panel_region #layoutEx_south{
+	overflow:visible;
+}

@@ -1,0 +1,280 @@
+/*
+	消费规则
+*/
+.consume_center_div{
+	margin-top:10px;
+}
+
+.consume_center_div>div{
+	display:inline-block;
+	vertical-align: middle;
+	height:325px;
+}
+.consume_center_div .odd_div{
+	border:1px solid #dcdcdc;
+}
+
+.consume_center_div .img_div{
+	text-align:center;
+}
+
+.consume_center_div .div_head{
+	background:#48A5F2;
+	height:30px;
+	color:#ffffff;
+	font-size:14px;
+	line-height:30px;
+}
+
+.consume_center_div .div_head img{
+	display:inline-block;
+	vertical-align: middle;
+	margin:0 5px 2px 5px;
+}
+
+.consume_center_div .div_head span{
+	display:inline-block;
+	vertical-align: middle;
+}
+
+.consume_center_div .div_btn{
+	text-align:center;
+	background:#F4F4F4;
+}
+
+.consumeRule_linkbutton{
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+	margin:7px;
+}
+
+.consume_center_div .img_span{
+	height: 100%;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+.consume_center_div .div_content{
+	margin-top:80px;
+	text-align:center;
+}
+
+.consume_center_div .div_content>div:first-child{
+	margin-bottom:50px;
+}
+
+.consume_center_div .div_third{
+	margin-top:30px;
+	text-align:center;
+}
+
+.consume_center_div .div_third>div{
+	margin-bottom:15px;
+}
+
+.consume_center_div .div_third>div:last-child{
+	margin:30px 0 0 0;
+}
+
+.consume_center_div .div_third>div>span{
+	margin-right:5px;
+}
+
+.consumeRule_confirm_btn{
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+	width:70px;
+	height:50px;
+	margin-bottom:25px;
+}
+
+.consume_center_div .confirm_div{
+	margin-left:30px;
+}
+
+/*提示信息*/
+.consume_center_div .datagrid-mask-msg{
+	margin-left:-80px;
+}
+
+.default_center_div .datagrid-mask-msg{
+	margin-left:-80px;
+}
+
+.consumeRule_toolBar_div{
+	height:100%; 
+	background:#F4F4F4;
+}
+
+.consumeRule_toolBar_div>div{
+	display:inline-block;
+	vertical-align: middle;
+	margin-top:8px;
+}
+
+.consumeRule_toolBar_div .second_div{
+	margin-top:20px;
+}
+
+.consumeRule_toolBar_div .first_div_span{
+	margin-left:20px;
+	margin-right:5px;
+	/* font-size:15px; */
+	vertical-align:middle;
+	line-height:1;
+}
+
+.consumeRule_toolBar_div .second_div_input{
+	margin-left:20px;
+	margin-right:5px;
+	vertical-align:middle; 
+	margin-top:-1px; 
+}
+
+.consumeRule_toolBar_div .second_div_span{
+	/* font-size:15px; */
+	vertical-align: middle;
+    line-height: 1;
+}
+
+.consumeRule_addMealRule>div{
+	margin-left:18px;
+	width:350px;
+}
+
+.consumeRule_addMealRule .addMealRule_underLine_div{
+	border-bottom:1px solid #dcdcdc;
+}
+
+.consumeRule_addMealRule .first_div{
+	margin:10px 0; 
+}
+
+.consumeRule_addMealRule .first_div>span:first-child{
+	margin-right:20px;
+}
+
+.consumeRule_addMealRule .first_time_div{
+	margin:10px 0; 
+}
+
+.consumeRule_addMealRule .first_time_div>span{
+	margin-right:5px;
+}
+
+.consumeRule_addMealRule .first_time_div>div>span{
+	margin-right:5px;
+}
+
+.consumeRule_addMealRule .second_div{
+	margin:15px 0; 
+}
+
+.consumeRule_addMealRule .third_div{
+	margin:15px 0; 
+}
+
+.consumeRule_addMealRule .fourth_div{
+	margin:15px 0; 
+}
+
+.consumeRule_addMealRule .fifth_div{
+	margin-top:15px; 
+	text-align:center;
+}
+.consumeRule_addMealRule .div_radio1{
+	margin-left:20px;
+	vertical-align:middle; 
+	margin-top:-2px; 
+}
+
+.consumeRule_addMealRule .div_radio2{
+	margin-left:10px;
+	vertical-align:middle; 
+	margin-top:-2px; 
+}
+
+.consumeRule_addMealRule .div_radio3{
+	margin-left:104px;
+	vertical-align:middle; 
+	margin-top:-2px; 
+}
+
+.consumeRule_addMealRule_linkbutton{
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+	margin-right:15px;
+}
+
+.addMealRule_checkbox{
+	vertical-align:middle; 
+	margin-top:-2px; 
+}
+
+.consumeRule_addRuleTime{
+	
+}
+.consumeRule_addRuleTime>fieldset{
+	margin:10px 0 0 16px;
+}
+
+.consumeRule_addRuleTime>fieldset>legend{
+	font-weight:bold;
+	font-size:16px;
+}
+
+.consumeRule_addRuleTime>fieldset>div{
+	margin-top:20px;
+	margin-left:10px;
+}
+
+.consumeRule_addRuleTime>fieldset>div>div{
+	margin-top:10px;
+}
+
+.consumeRule_addRuleTime>fieldset>div>div>span{
+	font-size:14px;
+	margin-right:5px;
+}
+
+.consumeRule_addRuleTime>fieldset>div>div>div>span{
+	margin-right:5px;
+}
+
+.consumeRule_addRuleTime>fieldset>div>div>span:first-child{
+	margin-right:20px;
+}
+
+.consumeRule_addRuleTime>div{
+}
+
+.consumeRule_addRuleTime>div>a{
+	margin-right:15px;
+}
+.consumeRule_addRuleTime_button{
+	text-align:center;
+    margin-top: 25px;
+}
+
+.consumeRule_west_first_div{
+	background: #48A5F2;
+    color: #ffffff;
+    height: 30px;
+    font-size: 14px;
+    line-height: 30px;
+}
+
+.consumeRule_west_first_div img{
+	display: inline-block;
+    vertical-align: middle;
+    margin: 0 10px 2px 10px;
+}
+
+.consumeRule_west_first_div span{
+	display: inline-block;
+    vertical-align: middle;
+}
+    

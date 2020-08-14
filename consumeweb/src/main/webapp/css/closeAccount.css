@@ -1,0 +1,189 @@
+.closeAccount_linkbutton{
+	margin-left:50px;
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+	margin-bottom:20px;
+	margin-top:20px;
+	width:63px;
+	height:23px;
+	margin:0 5px 0 0;
+	padding-top:5px;
+}
+.closeAccount_import{
+	margin:0 5px 0 5px;
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+}
+
+.closeAccount_chaxun{
+	margin-left:20px;
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+}
+
+.closeAccount_toolBar_second{
+	height:50px;
+	margin-bottom:20px;
+	border-bottom:1px solid #DCDCDC;
+}
+
+.closeAccount_toolBar_second>div{
+	margin:12px 0 0 5px;
+	display:inline-block;
+}
+
+.closeAccount_toolBar_second>div>label{
+	width:63px;
+	height:23px;
+	margin:0 5px 0 0;
+	padding-top:5px;
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+}
+
+.closeAccount_toolBar_second>div>a{
+	margin-left:5px;
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+}
+
+.closeAccount_toolBar_second>div>span{
+	margin-right:40px;
+}
+
+.closeAccount_toolBar_second>div>span>a{
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+}
+
+.closeAccount_file_input{
+	position: absolute;
+	top: -999px;
+	left: -999px;
+}
+
+.closeAccount_toolBar_third{
+	margin-bottom:10px;
+}
+
+.closeAccount_toolBar_third>div{
+	display:inline-block;
+	vertical-align: middle;
+	height:80px;
+}
+
+.closeAccount_toolBar_third .first_div div:first-child{
+	margin-bottom:15px;
+}
+
+.closeAccount_toolBar_third .first_div{
+	margin-left:10px;
+}
+
+.closeAccount_toolBar_third .first_div .first_div_span{
+	margin-left:5px;
+	margin-right:5px;
+}
+
+.closeAccount_toolBar_third>div>a{
+	margin-left:15px;
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+}
+
+.closeAccount_toolBar_third .third_div{
+	font-size:16px;
+	height: 50px; 
+	margin-left:70px;
+	margin-top: 10px;
+}
+
+.closeAccount_div{
+	display:inline-block;
+	vertical-align: middle;
+	height:80px;
+}
+.closeAccount_div_name{
+	margin-bottom:15px;
+}
+
+.closeAccount_south_div{
+	text-align:center;
+	position:relative;
+}
+.closeAccount_linkbuttonxh{
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+	margin-top:20px;
+}
+/*销户弹出页面*/
+.closeAccount_delAccount{
+	text-align:center;
+	background:#f4f4f4;
+}
+.closeAccount_delAccount>fieldset{
+	margin:0 0 50px 16px;
+}
+
+.closeAccount_delAccountButton{
+	margin-top:20px;
+}
+
+.closeAccount_delAccount .div_first{
+	width:93px;
+	margin-top:10px;
+	display:inline-block;
+	text-align:left;
+	margin-right:100px;
+}
+
+.closeAccount_delAccount .div_first>div:first-child{
+	margin-bottom:20px;
+}
+
+.closeAccount_delAccount .div_first>div>span{
+	font-size:14px;
+	margin-right:5px;
+	margin-left:5px;
+}
+
+.closeAccount_delAccount .div_second{
+	margin-top:20px;
+	display:inline-block;
+	text-align:left;
+}
+
+.closeAccount_delAccount .div_second>div:first-child{
+	margin-bottom:20px;
+}
+
+.closeAccount_delAccount .div_second>div>span{
+	font-size:14px;
+	margin-right:5px;
+	margin-left:5px;
+}
+
+.closeAccount_delAccount_buzhu{
+	margin-left:30px;
+}
+
+.closeAccount_resultWin_southdiv{
+	text-align:center;
+}
+
+.closeAccount_resultWin_southdiv a{
+	margin-right:20px;
+}
+
+.closeAccount_checkbox{
+	vertical-align:middle; 
+	margin-top:-2px; 
+}

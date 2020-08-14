@@ -1,0 +1,76 @@
+/*
+持卡人账户查询
+*/
+.cardholderDetailQuery_north_second{
+	height:85px;
+	background:#F4F4F4;
+}
+.cardholderDetailQuery_north_second>div{
+	float:left;
+}
+
+.cardholderDetailQuery_north_second .div_first{
+	margin-top:10px;
+	margin-left:30px;
+}
+
+.cardholderDetailQuery_north_second .div_first>div:first-child{
+	margin-bottom:15px;
+}
+
+.cardholderDetailQuery_north_second .div_first>div>span{
+	margin-right:5px;
+}
+
+.cardholderDetailQuery_north_second .div_second{
+	margin-left:30px;
+}
+/* .cardholderDetailQuery_north_second>div>span{
+	margin-right:5px;
+} */	
+.cardholderDetailQuery_linkbutton{
+	margin-left:50px;
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+	margin-bottom:20px;
+	margin-top:20px;
+}
+
+.cardholderDetailQuery_chaxun{
+	margin-left:10px;
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+}
+
+.cardholderDetailQuery_div{
+	margin-top:8px;
+	display:inline-block;
+	vertical-align: middle;
+}
+
+.cardholderDetailQuery_searchWin{
+	text-align:center;
+}
+
+.cardholderDetailQuery_searchWin>fieldset{
+	margin:10px 0 10px 10px;
+}
+
+.cardholderDetailQuery_searchWin>fieldset>legend{
+	font-weight:bold;
+	font-size:16px;
+	text-align:left;
+}
+
+.cardholderDetailQuery_searchWin>div:last-child{
+	margin-top:10px;
+}
+
+.cardholderDetailQuery_searchWin_linkbutton{
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+	margin-right:20px;
+}

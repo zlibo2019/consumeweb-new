@@ -1,0 +1,68 @@
+/*
+餐别设置
+*/
+.mealSet_toolBar_second{
+	height:50px;
+	/* margin-bottom:10px; */
+	/* border-top:1px solid #DCDCDC; */
+	
+}
+
+.mealSet_toolBar_second>div{
+	margin:12px 0 0 15px;
+	display:inline-block;
+}	
+
+.mealSet_linkbutton{
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+	margin:0 5px 0 5px;
+}
+
+
+
+.mealSet_addMeal{
+	
+}
+.mealSet_addMeal>fieldset{
+	margin:10px 0 0 16px;
+}
+
+.mealSet_addMeal>fieldset>legend{
+	font-weight:bold;
+	font-size:16px;
+}
+
+.mealSet_addMeal>fieldset>div{
+	margin:10px 0 0 0;
+}
+
+.mealSet_addMeal>fieldset>div>div{
+	margin:10px 0 5px 35px;
+}
+
+.mealSet_addMeal>fieldset>div>div>span{
+	font-size:14px;
+	margin-right:5px;
+}
+
+.mealSet_addMeal>fieldset>div>div>div>span{
+	margin-right:5px;
+}
+
+.mealSet_addMeal>fieldset>div>div>span:first-child{
+	margin-right:20px;
+}
+
+.mealSet_addMeal>div{
+}
+
+.mealSet_addMeal>div>a{
+	margin-right:15px;
+}
+.mealSet_addMeal_button{
+	text-align:center;
+    margin-top: 25px;
+}
+

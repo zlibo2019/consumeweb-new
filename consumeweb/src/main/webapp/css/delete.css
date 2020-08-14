@@ -1,0 +1,22 @@
+/*
+商户销户
+*/
+.delete_toolBar_second{
+	height:50px;
+	margin-bottom:10px;
+	border-top:1px solid #DCDCDC;
+	
+}
+
+.delete_toolBar_second>div{
+	margin:12px 0 0 15px;
+	display:inline-block;
+}	
+
+.delete_linkbutton{
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+	margin:0 5px 0 5px;
+}
+

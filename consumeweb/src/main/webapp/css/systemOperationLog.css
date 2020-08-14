@@ -1,0 +1,19 @@
+/*系统操作日志*/
+
+.systemOperationLog_topDiv{
+	height:35px;
+	background:#f4f4f4;
+}
+
+.systemOperationLog_topDiv>div{
+	margin:5px 0 0 15px;
+	display:inline-block;
+}
+
+.systemOperationLog_topDiv .div_first span{
+	margin-left:5px;
+}
+
+.systemOperationLog_topDiv .div_second a{
+	margin-left:15px;
+}

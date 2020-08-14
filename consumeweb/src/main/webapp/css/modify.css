@@ -1,0 +1,42 @@
+/*
+商户修改
+*/
+
+.merchantModify_toolBar_second{
+	height:50px;
+	margin-bottom:20px;
+	border-top:1px solid #DCDCDC;
+	border-bottom:1px solid #DCDCDC;
+}
+
+.merchantModify_toolBar_second>div{
+	margin:12px 0 0 15px;
+	display:inline-block;
+}
+
+.merchantModify_toolBar_third{
+	margin-top:10px;
+}
+
+.merchantModify_toolBar_third>div{
+	display:inline-block;
+	vertical-align: middle;
+	height:80px;
+}
+
+.merchantModify_toolBar_third_div{
+	margin-bottom:15px;
+}
+
+.merchantModify_toolBar_third_div .merchantModify_span{
+	margin-left:5px;
+	margin-right:5px;
+}
+
+.merchantModify_linkbutton{
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+	margin:0 5px 0 5px;
+}
+

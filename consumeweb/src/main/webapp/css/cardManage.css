@@ -1,0 +1,158 @@
+/*
+卡片管理
+*/
+
+.cardManage_toolBar_second{
+	margin-top:10px;
+	background:#f4f4f4;
+	height:100%;
+	padding-top:10px;
+}
+
+.cardManage_toolBar_second>div{
+	display:inline-block;
+	vertical-align: middle;
+	height:80px;
+}
+
+.cardManage_toolBar_second>div:first-child{
+	margin-right:10px;
+	margin-left:15px;
+}
+
+.cardManage_toolBar_second>div>a{
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+}
+
+.cardManage_toolBar_second .toolBar_div_first{
+	margin-bottom:15px;
+}
+
+.cardManage_toolBar_second .toolBar_div_first>span{
+	margin-right:5px;
+}
+
+.cardManage_toolBar_second .toolBar_div_second>span{
+	margin-right:5px;
+}
+
+.cardManage_toolBar_second .toolBar_div_query{
+	margin-right:13px;
+}
+
+.cardManage_toolBar_second .toolBar_div_third>div:first-child{
+	margin-bottom:5px;
+}
+
+.cardManage_toolBar_second .toolBar_div_third>div>a{
+	margin-right:13px;
+}
+
+.cardManage_toolBar_second .toolBar_div_fourth{
+	margin-bottom:15px;
+}
+
+.cardManage_toolBar_second .toolBar_div_fourth>span{
+	margin-right:5px;
+}
+
+.cardManage_toolBar_second .toolBar_div_fifth>span{
+	margin-right:5px;
+}
+
+.cardManage_south_div{
+	text-align:center;
+	position:relative;
+}
+
+.cardManage_south_span{
+	color:red;
+	position:absolute;
+	left:50px;
+	top:40px;
+}
+
+.cardManage_linkbutton1{
+	position:absolute;
+	right:130px;
+	top:30px;
+}
+
+.cardManage_linkbutton2{
+	position:absolute;
+	right:40px;
+	top:30px;
+}
+
+.cardManage_linkbutton3{
+	background: #2274B9;
+    color: #ffffff;
+    filter: none;
+}
+
+.cardManage_searchWin{
+	text-align:center;
+}
+
+.cardManage_searchWin>div:first-child{
+	margin:5px;
+}
+
+.cardManage_btn_div{
+	margin-top:15px;
+}
+
+.cardManage_btn_div>a{
+	margin-right:20px;
+}
+
+.cardManage_searchWin_linkbutton{
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+}
+
+.cardManage_provideWin{
+	text-align:center;
+}
+
+.cardManage_provideWin .readCardWin_img{
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 30px;
+	margin-left: -40px;
+}
+
+.cardManage_provideWin .readCardWin_span{
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.cardManage_provideWin_div{
+	margin-top:45px;
+	color:red;
+}
+
+.cardManage_provideWin_div_imp{
+	text-align:left;
+	margin-top:15px;
+	margin-left:15px;
+	color:red;
+}
+.cardManage_provideWin_div_ip{
+	margin-top:15px;
+	color:red;
+}
+
+.cardManage_line{
+	text-align:center;
+	font-weight:bold;
+	background-color:rgb(248, 248, 248);
+	height:35px;
+	line-height:35px;
+	border-top:1px solid #DCDCDC;
+	border-bottom:1px solid #DCDCDC;
+	border-right: 1px solid #DCDCDC;
+}

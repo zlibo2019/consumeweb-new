@@ -1,0 +1,211 @@
+/**
+*取款
+*/
+
+.drawCash_linkbutton{
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+	margin-top:20px;
+	margin-right: 50px;
+}
+
+
+.drawCash_chaxun{
+	margin-left:5px;
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+}
+
+.drawCash_line{
+	font-weight:bold;
+	background-color:rgb(248, 248, 248);
+	height:35px;
+	line-height:35px;
+	border-top:1px solid #DCDCDC;
+	border-bottom:1px solid #DCDCDC;
+	border-right: 1px solid #DCDCDC;
+}
+.drawCash_line>span{
+	margin-left:20px;
+}
+.drawCash_userinfo{
+}
+.drawCash_div{
+	width:390px;
+	display:inline-block;
+	vertical-align: middle;
+}
+.drawCash_div1{
+	display:inline-block;
+	vertical-align: middle;
+	height:80px;
+	margin-left:20px;
+}
+.drawCash_div>div{
+	margin-top:15px;
+	margin-bottom:15px;
+	float:left;
+}
+.drawCash_div1>div{
+	margin-top:7px;
+	margin-bottom:15px;
+	float:left;
+}
+.drawCash_div .drawCash_div_span{
+	margin-left:5px;margin-right:5px;
+}
+
+.drawCash_center_bottom_all{
+	height:95%;
+	border-bottom:1px solid #DCDCDC;
+}
+
+.drawCash_center_bottom{
+	height:55%;
+	border-bottom:1px solid #DCDCDC;
+}
+
+/*页面中间布局底部 add by LYh*/
+.drawCash_bottom{
+	height:45%;
+	overflow:auto;
+}
+
+.drawCash_bottom_div{  
+    /* height:100%;  */
+    padding: 5px 5px 0px 5px;
+    margin: 15px 15px 5px 15px;
+    border:1px solid #DCDCDC;
+}
+.drawCash_bottom_span{
+	font-weight:bold;
+	display:block; 
+    width:100px; 
+    height:30px; 
+    position:relative; 
+    top:-15px; 
+    text-align: center; 
+    background: white;
+}
+.drawCash_bottom_aftertext{
+	width:50px;
+	margin-left:20px;
+	margin-right:5px;
+	text-align: right;
+    line-height: 30px;
+}
+
+
+
+
+.drawCash_center_bottom_left_div1{
+	height:25%;
+	font-size:16px;
+}
+.drawCash_beforetext{
+	margin-left:20px;
+	margin-right:5px;
+	font-weight:bold;
+}
+.drawCash_beforemoeny{
+	margin-right:5px;
+	font-size:25px;
+	color:gray;
+}
+.drawCash_after{
+	/* margin-top:60px; */
+	height:25%;
+	font-size:16px;
+}
+.drawCash_aftertext{
+	margin-left:20px;
+	margin-right:5px;
+	font-weight:bold;
+}
+.drawCash_aftermoney{
+	margin-right:5px;
+	font-size:25px;
+	color:red;
+}
+.drawCash_inputmoney{
+	/* margin-top:60px; */
+	height:25%;
+}
+.drawCash_inputmoney>span:first-child{
+	margin-left:20px;
+	margin-right:5px;
+}
+.drawCash_input_button{
+	margin-left:110px;
+	margin-top:10px;
+}
+.drawCash_other{
+	/* margin-top:50px; */
+	height:25%;
+}
+
+.drawCash_other>div>div>input{
+	margin-left:20px;
+	margin-right:5px;
+}
+.drawCash_south{
+	text-align:center;
+	position:relative;
+}
+.drawCash_button_batch{
+	position:absolute;
+	right:220px;
+	top:30px;
+}
+.drawCash_button_print{
+	position:absolute;
+	right:130px;
+	top:30px;
+}
+.drawCash_button_cancel{
+	position:absolute;
+	right:40px;
+	top:30px;
+}
+
+.drawCash_searchWin{
+	text-align:center;
+}
+
+.drawCash_searchWin>fieldset{
+	margin:10px 0 0 10px;
+}
+
+.drawCash_searchWin>fieldset>legend{
+	font-weight:bold;
+	font-size:16px;
+	text-align:left;
+}
+
+.drawCash_searchWin>div:last-child{
+	margin-top:10px;
+}
+
+.drawCash_cashlx{
+	width:340px;
+	margin:0 auto;
+	/* height: 60px;
+    line-height: 60px; */
+    height: 15%;
+    line-height: 3;
+}
+
+.drawCash_cashlx>div{
+	float:left;
+}
+.drawCash_cashlx>div>input{
+	margin-left:20px;
+	margin-right:5px;
+}
+
+.drawCash_checkbox{
+	vertical-align:middle; 
+	margin-top:-2px; 
+}

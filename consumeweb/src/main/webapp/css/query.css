@@ -1,0 +1,99 @@
+/*
+补贴发放查询
+*/
+
+.query_toolBar_second{
+	height:35px;
+	line-height:35px;
+	/* border-top:1px solid #DCDCDC; */
+	border-bottom:1px solid #DCDCDC;
+}
+.query_toolBar_second>div{
+	float:left;
+}
+.query_toolBar_second>div>input{
+	margin-left:30px;
+	margin-right:5px;
+}
+.query_toolBar_third{
+	height:35px;
+	/*line-height:35px;*/
+	
+}
+.query_toolBar_third>div{
+	float:left;
+	margin-top:6px;
+}
+
+.query_toolBar_third>div:last-child{
+	float:left;
+	margin-top:3px;
+}
+
+.query_toolBar_third .div_first{
+	margin-left:20px;
+}
+
+.query_toolBar_third .div_first>div>span{
+	margin-right:5px;
+}
+
+.query_toolBar_third .div_second{
+	margin-left:30px;
+}
+.query_toolBar_third>div>span{
+	margin-right:5px;
+}	
+
+
+
+
+.query_toolBar_fourth{
+	height:35px;
+	/*line-height:35px;*/
+	
+}
+.query_toolBar_fourth>div{
+	float:left;
+	margin-top:6px;
+}
+
+.query_toolBar_fourth .query_div{
+	margin-top:3px;
+}
+
+.query_toolBar_fourth .div_first{
+	margin-left:20px;
+}
+
+.query_toolBar_fourth .div_first>div>span{
+	margin-right:5px;
+}
+
+.query_toolBar_fourth .div_second{
+	margin-left:30px;
+}
+.query_toolBar_fourth>div>span{
+	margin-right:5px;
+}	
+
+.query_linkbutton{
+	margin-left:50px;
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+	margin-bottom:20px;
+	margin-top:20px;
+}
+
+.query_chaxun{
+	margin-left:10px;
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+}
+
+.query_div{
+	display:inline-block;
+	vertical-align: middle;
+}

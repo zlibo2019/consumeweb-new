@@ -1,0 +1,240 @@
+/*
+	Ä¬ÈÏ¹æÔò
+*/
+.default_center_div{
+	margin-top:10px;
+}
+
+.default_center_div>div{
+	display:inline-block;
+	vertical-align: middle;
+	height:325px;
+}
+.default_center_div .odd_div{
+	border:1px solid #dcdcdc;
+}
+
+.default_center_div .img_div{
+	text-align:center;
+}
+
+.default_center_div .div_head{
+	background:#48A5F2;
+	height:30px;
+	color:#ffffff;
+	font-size:14px;
+	line-height:30px;
+}
+
+.default_center_div .div_head img{
+	display:inline-block;
+	vertical-align: middle;
+	margin:0 5px 2px 5px;
+}
+
+.default_center_div .div_head span{
+	display:inline-block;
+	vertical-align: middle;
+}
+
+.default_center_div .div_btn{
+	text-align:center;
+	background:#F4F4F4;
+}
+
+.defaultRule_linkbutton{
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+	margin:7px;
+}
+
+.default_center_div .img_span{
+	height: 100%;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+.default_center_div .div_content{
+	margin-top:80px;
+	text-align:center;
+}
+
+.default_center_div .div_content>div:first-child{
+	margin-bottom:50px;
+}
+
+.default_center_div .div_third{
+	margin-top:30px;
+	text-align:center;
+}
+
+.default_center_div .div_third>div{
+	margin-bottom:15px;
+}
+
+.default_center_div .div_third>div:last-child{
+	margin:30px 0 0 0;
+}
+
+.default_center_div .div_third>div>span{
+	margin-right:5px;
+}
+
+.defaultRule_confirm_btn{
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+	width:70px;
+	height:70px;
+	margin-bottom:25px;
+}
+
+.default_center_div .confirm_div{
+	margin-left:30px;
+}
+
+.defaultRule_toolBar_div{
+	height:100%;
+	background:#F4F4F4;
+}
+
+.defaultRule_toolBar_div>div{
+	display:inline-block;
+	vertical-align: middle;
+	margin-top:8px;
+}
+
+.defaultRule_toolBar_div .second_div{
+	margin-top:20px;
+}
+
+.defaultRule_toolBar_div .first_div_span{
+	margin-left:30px;
+	margin-right:5px;
+	font-size:15px;
+	vertical-align:middle;
+	line-height:1;
+}
+
+.defaultRule_toolBar_div .second_div_input{
+	margin-left:30px;
+	margin-right:5px;
+	vertical-align:middle; 
+	margin-top:-1px; 
+}
+
+.defaultRule_toolBar_div .second_div_span{
+	font-size:15px;
+    vertical-align: middle;
+    line-height: 1;
+	
+}
+
+.defaultRule_addMealRule>div{
+	margin-left:18px;
+	width:300px;
+}
+
+.defaultRule_addMealRule .addMealRule_underLine_div{
+	border-bottom:1px solid #dcdcdc;
+}
+
+.defaultRule_addMealRule .first_div{
+	margin:20px 0; 
+}
+
+.defaultRule_addMealRule .first_div>span:first-child{
+	margin-right:20px;
+}
+
+.defaultRule_addMealRule .second_div{
+	margin:15px 0; 
+}
+
+.defaultRule_addMealRule .third_div{
+	margin:15px 0; 
+}
+
+.defaultRule_addMealRule .fourth_div{
+	margin:15px 0; 
+}
+
+.defaultRule_addMealRule .fifth_div{
+	margin-top:30px; 
+	text-align:center;
+}
+.defaultRule_addMealRule .div_radio1{
+	margin-left:20px;
+	vertical-align:middle; 
+	margin-top:-2px; 
+}
+
+.defaultRule_addMealRule .div_radio2{
+	margin-left:10px;
+	vertical-align:middle; 
+	margin-top:-2px; 
+}
+
+.defaultRule_addMealRule .div_radio3{
+	margin-left:104px;
+	vertical-align:middle; 
+	margin-top:-2px; 
+}
+
+.defaultRule_addMealRule_linkbutton{
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+	margin-right:15px;
+}
+
+.addMealRule_checkbox{
+	vertical-align:middle; 
+	margin-top:-2px; 
+}
+
+.defaultRule_addRuleTime{
+	
+}
+.defaultRule_addRuleTime>fieldset{
+	margin:10px 0 0 16px;
+}
+
+.defaultRule_addRuleTime>fieldset>legend{
+	font-weight:bold;
+	font-size:16px;
+}
+
+.defaultRule_addRuleTime>fieldset>div{
+	margin-top:20px;
+	margin-left:10px;
+}
+
+.defaultRule_addRuleTime>fieldset>div>div{
+	margin-top:10px;
+}
+
+.defaultRule_addRuleTime>fieldset>div>div>span{
+	font-size:14px;
+	margin-right:5px;
+}
+
+.defaultRule_addRuleTime>fieldset>div>div>div>span{
+	margin-right:5px;
+}
+
+.defaultRule_addRuleTime>fieldset>div>div>span:first-child{
+	margin-right:20px;
+}
+
+.defaultRule_addRuleTime>div{
+}
+
+.defaultRule_addRuleTime>div>a{
+	margin-right:15px;
+}
+.defaultRule_addRuleTime_button{
+	text-align:center;
+    margin-top: 25px;
+}

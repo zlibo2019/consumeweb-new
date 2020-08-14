@@ -1,0 +1,85 @@
+/*关联设备*/
+
+.merchantAssign_relDev_firstDiv{
+	margin:10px 15px;
+}
+
+.merchantAssign_relDev_firstDiv a{
+	margin-left:10px;
+}
+
+.merchantAssign_relDev_secondDiv{
+	text-align:center;margin-left:2%;
+}
+
+.merchantAssign_relevanceDevice .pagination-info{
+	display:none;
+}
+
+.merchantAssign_relDev_thirdDiv fieldset{
+	margin-top:5px;
+	margin-left:2%;
+}
+
+.merchantAssign_relDev_thirdDiv fieldset input{
+	vertical-align:middle;
+	margin:12px 5px 12px 15px;
+}
+
+.merchantAssign_relevanceDevice_button_div{
+	text-align:center;
+}
+
+.merchantAssign_relevanceDevice_button_div a:first-child{
+	margin-right:10px;
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+}
+
+
+/*修改扣款模式*/
+
+.merchantAssign_changeDetainMoneyMode fieldset{
+	margin-top:15px;
+	margin-left:5%;
+}
+
+.merchantAssign_changeDetainMoneyMode div{
+	margin-top:15px;
+}
+
+.merchantAssign_changeDetainMoneyMode input{
+	vertical-align:middle;
+	margin:0 5px 0 15px;
+}
+
+
+/*解除设备关联*/
+.merchantAssign_relieveDeviceRelevance {
+	text-align:center;
+	margin-top:20px;
+	font-size:14px;
+}
+
+.merchantAssign_relieveDeviceRelevance_button_div{
+	text-align:center;
+}
+
+.merchantAssign_relieveDeviceRelevance_button_div>a{
+	margin:10px 15px 0 0;
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+}
+
+.merchantAssign_relieveDeviceRelevance_operaProg_btn_div{
+	text-align:right;
+}
+
+.merchantAssign_relieveDeviceRelevance_operaProg_btn_div>a{
+	margin-right:15px;
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+}

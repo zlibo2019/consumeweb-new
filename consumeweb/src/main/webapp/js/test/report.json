@@ -1,0 +1,97 @@
+{
+	"id" : 0,
+	"info" : "OK",
+	"record" : [{
+			"dep_name" : "consumer",
+			"begin_amt" : 0,
+			"sub_amt" : 0,
+			"recharge_amt" : 0,
+			"other_income" : 0,
+			"xf_amt" : 0,
+			"refund_amt" : 0,
+			"other_pay" : 0,
+			"end_amt" : 0
+		}, {
+			"dep_name" : "消费测试部门",
+			"begin_amt" : 426380216,
+			"sub_amt" : 109273100,
+			"recharge_amt" : 10000,
+			"other_income" : 0,
+			"xf_amt" : 2624596,
+			"refund_amt" : 0,
+			"other_pay" : 84600,
+			"end_amt" : 532954120
+		}, {
+			"dep_name" : "充值测试部门",
+			"begin_amt" : 41526644,
+			"sub_amt" : 17601608,
+			"recharge_amt" : 0,
+			"other_income" : -2371200,
+			"xf_amt" : 5423397,
+			"refund_amt" : 0,
+			"other_pay" : 45000,
+			"end_amt" : 51288655
+		}, {
+			"dep_name" : "新增部门lq",
+			"begin_amt" : -120000,
+			"sub_amt" : 0,
+			"recharge_amt" : 0,
+			"other_income" : 0,
+			"xf_amt" : 0,
+			"refund_amt" : 0,
+			"other_pay" : 40000,
+			"end_amt" : -160000
+		}, {
+			"dep_name" : "开户测试",
+			"begin_amt" : 2996600,
+			"sub_amt" : 5200,
+			"recharge_amt" : 948700,
+			"other_income" : 0,
+			"xf_amt" : 0,
+			"refund_amt" : 0,
+			"other_pay" : 273000,
+			"end_amt" : 3677500
+		}, {
+			"dep_name" : "lq测试1",
+			"begin_amt" : 4848000,
+			"sub_amt" : 0,
+			"recharge_amt" : 2417000,
+			"other_income" : 0,
+			"xf_amt" : 0,
+			"refund_amt" : 0,
+			"other_pay" : 1270000,
+			"end_amt" : 5995000
+		}, {
+			"dep_name" : "lq测试2",
+			"begin_amt" : 236400,
+			"sub_amt" : 0,
+			"recharge_amt" : 66600,
+			"other_income" : 0,
+			"xf_amt" : 0,
+			"refund_amt" : 0,
+			"other_pay" : 10000,
+			"end_amt" : 293000
+		}, {
+			"dep_name" : "lq测试3",
+			"begin_amt" : 2769600,
+			"sub_amt" : 0,
+			"recharge_amt" : 699900,
+			"other_income" : 0,
+			"xf_amt" : 0,
+			"refund_amt" : 0,
+			"other_pay" : 10000,
+			"end_amt" : 3459500
+		}, {
+			"dep_name" : "lq测试4",
+			"begin_amt" : 6412000,
+			"sub_amt" : 0,
+			"recharge_amt" : 1633000,
+			"other_income" : 0,
+			"xf_amt" : 0,
+			"refund_amt" : 0,
+			"other_pay" : 40000,
+			"end_amt" : 8005000
+		}
+	],
+	"total" : 9
+}

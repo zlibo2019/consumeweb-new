@@ -1,0 +1,289 @@
+@CHARSET "UTF-8";
+
+/*
+====================
+                共用CSS
+*/
+html{
+	overflow: hidden;
+	height:100%;
+}
+
+body {
+	font: 12px "宋体", serif;
+	height:100%;
+}
+
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, p, pre, form,
+	fieldset, input, textarea, blockquote, th, td {
+	padding: 0;
+	margin: 0;
+}
+
+/*twl*/
+fieldset{
+	border:1px solid #dcdcdc;
+}
+
+fieldset legend{
+	margin-left:5px;
+}
+
+
+/****layoutEx扩展布局******/
+
+.layoutEx{
+	position: relative;
+	border:0px solid red;
+	overflow:hidden;
+}
+
+.layoutEx > .panel_region{
+	position: absolute;
+	border:0px solid blue;
+	overflow:hidden;
+}
+/****layoutEx扩展布局******/
+/****layoutExt扩展布局重构实现******/
+.layoutExt{
+	overflow:hidden;
+}
+.layoutExt > .panel_region{
+	width:100%;
+	height:100%;
+	float:left;
+}
+.layoutExt >  .layout_west{
+	float:left;
+}
+
+.layoutExt >  .layout_east{
+	float:right;
+}
+/****layoutExt扩展布局重构实现******/
+
+/*---------------首页登录窗口样式-------------*/
+.login_panel .login_top{
+	width: 100%;
+	height:150px;
+	background:#0060A9 url('../images/LOGO.gif');
+	background-position: bottom center;
+	background-repeat: no-repeat;
+}
+
+.login_panel .login_form{
+	background: url('../images/login_bg.png');
+	width:423px;border:1px solid #ededed;
+	height:366px;
+	margin:auto;
+	margin-top:30px;
+	text-align:center;
+}
+
+.login_panel .login_input{
+	margin-top:20px;
+}
+
+.login_panel .login_input img{
+	height:35px;width:100px;vertical-align:middle;margin-left:3px;
+}
+
+.login_panel .login_btn{
+	margin:auto;width:140px;height:30px;padding-top:10px;
+             background-color: rgb(0,169,233);cursor: pointer;
+             text-align:center;border:1px solid #ccc;
+}
+
+.login_panel .login_btn span{
+	font-size:18px;margin-top:8px;color:#fff;font-weight:700;
+}
+
+.login_panel .login_footer{
+	font-size: 14px;color:rgb(0,96,169);
+	text-align: center;width:100%
+}
+/*++++++++++++++++++首页登录窗口样式-------------*/
+/*----------------首页样式-------------*/
+.index_div_layout .div_layout_top{
+    background: rgb(238,248,255);
+}
+.index_div_layout .div_layout_top .titlebar{
+	margin-left:8px;float:left;height:30px;margin-top:5px;
+    background: url('../images/index_logo.gif') no-repeat;border:0px solid red;padding-top:4px;
+}
+
+.index_div_layout .div_layout_top .titlebar span{
+	background-image: none;padding-left:115px;padding-top:8px;
+}
+
+.index_div_layout .div_layout_top .title-button{
+	width:600px;padding-top:5px;float:right;text-align:right;margin-right:30px;
+}
+
+.index_div_layout .div_layout_left{
+	position: absolute;
+	border:1px solid #95B8E7;
+	bottom:0;
+	background-color:#E0ECFF
+}
+
+.index_div_layout .div_layout_left .panel-header{
+	margin:auto;
+	border-top:none;
+	border-left:none;
+	border-right:none;
+}
+
+.index_div_layout .div_layout_left .panel-menu-body{
+	/* position: absolute;
+	left:0;
+	right:0;
+	bottom:0;
+	top:27px; */
+	overflow: auto;
+	background-color: #fff;
+}
+
+.index_div_layout .div_layout_center{
+	border:0px solid #95B800;
+	position: absolute;
+	right:0;
+	bottom:0;
+}
+
+/*菜单项样式*/
+.index_div_layout .layout_left_menu{
+	width: 96%; 
+	text-align: left;
+	display: inline-block;
+	border: 1px solid #fff;
+	color: #000000;
+	margin:3px;
+	height:17px;
+	padding-top:5px;
+	text-decoration: none;
+	cursor: pointer;
+}
+/*菜单项鼠标悬停时样式*/
+.index_div_layout .layout_left_menu:HOVER {
+	background: #eaf2ff;
+	border: 1px solid #b7d2ff;
+	border-radius: 5px 5px 5px 5px;
+}
+
+.index_div_layout .layout_left_menu span{
+	padding-left:25px;
+}
+
+.icon-Login_out{/*退出/注销*/
+      background:url('../images/logout.png') no-repeat center center;
+}
+
+.icon-Modify_Pwd {/*修改密码*/
+	background: url('../images/Change_Password.png') no-repeat center center;
+}
+
+.icon-hamburg-home {/*首页*/
+	background: url('../images/home.png') no-repeat center center;
+}
+
+
+.icon_arrow_down {/*菜单模块图标*/
+	background: url('../images/arrow_down.png') no-repeat center center;
+}
+
+.icon_arrow_up {/*菜单模块图标*/
+	background: url('../images/arrow_up.png') no-repeat center center;
+	
+}
+/*
+.l-btn-icon-left .l-btn-text{
+	margin-top:6px;
+}*/
+
+/*++++++++++++++++++首页样式-------------*/
+	
+/*
+  表单table布局，默认样式
+*/
+.ui_table{
+	table-layout: fixed;
+	border-collapse: collapse;
+	margin:auto;
+	margin-top:5px;
+}
+
+.ui_table td,
+.ui_table th{
+	border: 1px solid #95B8E7;
+	overflow: hidden;
+	text-align:center;
+	padding:2px;
+	vertical-align:middle;
+}
+
+
+/*
+  表单table布局，无边框
+*/
+.ui_table_noborder{
+	table-layout: fixed;
+	border-collapse: collapse;
+	margin:auto;
+	width:100%;
+}
+
+.ui_table_noborder td{
+	border: 0px solid #95B8E7;
+	text-align:center;
+	padding:2px;
+	vertical-align:middle;
+	color:#666;
+}
+
+
+
+/*
+	对话框中，按钮样式布局
+*/
+.dialog_button_layout{
+	text-align:center;
+	line-height:60px;
+}
+
+.dialog_button_layout .l-btn{
+	width:60px;
+	padding-left:5px;
+	padding-right:5px;
+	margin-left:15px;
+	margin-right:15px;
+}
+
+/******对话框中按钮布局*********/
+
+/*******************/
+.layout_account{
+	background-color: rgb(248,248,248);
+}
+.layout_account > .account_header{
+	display: inline-block;
+	width:80px;
+	height:60px;
+	border-left:1px solid #ddd;
+	border-top:2px solid #eee;
+	line-height:60px;
+	text-align:center;
+	color:#888;
+	font-size:16px;
+	cursor: pointer;
+}
+
+.layout_account > .account_header_focus{
+	border-top:2px solid blue;
+	color:rgb(38,123,198);
+}
+
+/**********************/
+.window-mask-garen{
+	z-index: 20000;
+}

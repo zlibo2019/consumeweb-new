@@ -1,0 +1,203 @@
+/**
+*消费纠错
+*/
+
+.drawCash_correction_linkbutton{
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+	margin-top:20px;
+}
+
+.drawCash_correction_chaxun{
+	margin-left:5px;
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+}
+
+.drawCash_correction_linkbutton{
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+	margin-top:20px;
+}
+
+.drawCash_correction_line{
+	font-weight:bold;
+	background-color:rgb(248, 248, 248);
+	height:35px;
+	line-height:35px;
+	border-top:1px solid #DCDCDC;
+	border-bottom:1px solid #DCDCDC;
+}
+.drawCash_correction_line>span{
+	margin-left:20px;
+}
+.drawCash_correction_userinfo{
+	width:1500px;
+	display:inline-block;
+	margin-top:10px;
+	margin-bottom:9px;
+}
+.drawCash_correction_div{
+	display:inline-block;
+	vertical-align: middle;
+	margin-left:5px;
+	margin-top:7px;
+	margin-bottom:7px;
+}
+.drawCash_correction_div>div{
+	/*margin-bottom:15px;*/
+	float:left;
+}
+
+.drawCash_correction_div .dateRight{
+	margin-bottom:15px;
+	margin-left:80px;
+}
+
+.drawCash_correction_div .drawCash_correction_div_span{
+	margin-left:5px;margin-right:5px;
+}
+
+.drawCash_correction_buttonDiv{
+	display:inline-block;
+	margin: -35px 0 0 5px;
+	position:absolute;
+}
+
+.drawCash_correction_buttonDiv a{
+	margin:2px 5px;
+}
+
+.drawCash_correction_center_bottom{
+	height:90%;
+}
+.drawCash_correction_center_bottom_left_div1{
+	margin-top:40px;
+	font-size:18px;
+}
+.drawCash_correction_beforetext{
+	margin-left:20px;
+	margin-right:5px;
+	font-weight:bold;
+}
+.drawCash_correction_beforemoeny{
+	margin-right:5px;
+	font-size:30px;
+	color:gray;
+}
+.drawCash_correction_after{
+	margin-top:35px;
+	font-size:18px;
+}
+.drawCash_correction_aftertext{
+	margin-left:20px;
+	margin-right:5px;
+	font-weight:bold;
+}
+.drawCash_correction_aftermoney{
+	margin-right:5px;
+	font-size:30px;
+	color:red;
+}
+.drawCash_correction_inputmoney{
+	margin-top:50px;
+}
+.drawCash_correction_inputmoney>span:first-child{
+	margin-left:40px;
+	margin-right:5px;
+}
+.drawCash_correction_input_button{
+	margin-left:110px;
+	margin-top:10px;
+}
+.drawCash_correction_other{
+	margin-top:30px;
+	height:20%;
+}
+.drawCash_correction_other>div>div:first-child{
+	margin-bottom:15px;
+}
+.drawCash_correction_other>div>div>input{
+	margin-left:30px;
+	margin-right:5px;
+}
+.drawCash_correction_south{
+	text-align:center;
+	position:relative;
+}
+.drawCash_correction_button_batch{
+	position:absolute;
+	right:220px;
+	top:30px;
+}
+.drawCash_correction_button_print{
+	position:absolute;
+	right:130px;
+	top:30px;
+}
+.drawCash_correction_button_cancel{
+	position:absolute;
+	right:40px;
+	top:30px;
+}
+
+.drawCash_payable_moneyInput{
+	position:absolute;
+	left:40px;
+	top:15px;
+}
+/* .drawCash_payable_moneyInput>span{
+	margin-right:16px;
+	font-size:10px;
+} */
+
+.drawCash_payable_span{
+	margin-right:16px;
+	font-size:10px;
+	font-weight:bold;
+}
+
+.drawCash_payable_money{
+	margin-left:5px;
+	font-size:10px;
+}
+
+
+.drawCash_correction_moneyInput{
+	position:absolute;
+	left:40px;
+	top:50px;
+}
+
+.drawCash_correction_moneyInput>span{
+	margin-right:5px;
+	font-size:10px;
+}
+
+.drawCash_correction_searchWin{
+	text-align:center;
+}
+
+.drawCash_correction_searchWin>fieldset{
+	margin:10px 0 0 10px;
+}
+
+.drawCash_correction_searchWin>fieldset>legend{
+	font-weight:bold;
+	font-size:16px;
+	text-align:left;
+}
+
+.drawCash_correction_searchWin>div:last-child{
+	margin-top:10px;
+}
+
+.drawCash_correction_searchWin_linkbutton{
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+}
+

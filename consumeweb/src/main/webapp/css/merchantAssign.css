@@ -1,0 +1,124 @@
+/*
+场所定义
+*/
+.merchantAssign_linkbutton{
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+	margin:0 20px 0px 55px;
+}
+
+.merchantAssign_west_div{
+	border-right:1px solid #dcdcdc;
+}
+
+.merchantAssign_west_div .first_div{
+	background:#48A5F2;
+	color:#ffffff;
+	height:30px;
+	font-size:14px;
+	line-height:30px;
+}
+
+.merchantAssign_west_div .first_div img{
+	display:inline-block;
+    vertical-align: middle;
+	margin:0 10px 2px 10px;
+}
+
+.merchantAssign_west_div .first_div span{
+	display:inline-block;
+    vertical-align: middle;
+}
+
+.merchantAssign_addDep_div>div{
+	margin-top:30px;
+}
+
+.merchantAssign_addDep_div .merchantAssign_addDep_span{
+	margin-left:20px;
+	margin-right:10px;
+}
+
+.merchantAssign_toolBar .first_div{
+	margin-left:20px;
+	height:28px;
+	line-height:50px;
+}
+
+.merchantAssign_toolBar .first_div>a{
+	margin-right:20px;
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+}
+
+.merchantAssign_toolBar .first_div>a:hover{
+	background: #eaf2ff;
+  	color: #000000;
+  	border: 1px solid #b7d2ff;
+  	filter: none;
+}
+
+.merchantAssign_addAssign{
+	
+}
+.merchantAssign_addAssign>div>fieldset{
+	margin:10px 0 0 16px;
+}
+
+.merchantAssign_addAssign>div>fieldset>legend{
+	font-weight:bold;
+	font-size:16px;
+}
+
+.merchantAssign_addAssign>div>fieldset>div>div{
+	margin-top:5px;
+}
+
+.merchantAssign_addAssign>div>fieldset>div>div>span{
+	margin-right:5px;
+}
+
+.merchantAssign_addAssign_button_div{
+	text-align:center;
+	margin-top:5px;
+}
+
+.merchantAssign_addAssign_linkbutton{
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+	margin:4px;
+}
+
+.merchantAssign_addAssign_first{
+	text-align:left;
+	margin-left:10px;
+}
+
+.merchantAssign_addAssign_second{
+	text-align:left;
+	margin-left:10px;
+}
+
+.merchantAssign_addAssign_first>div:first-child{
+	margin-bottom:5px;
+}
+
+.merchantAssign_addAssign_second>div>div>span{
+	margin-left:5px;
+}
+
+.merchantList_linkbutton{
+	margin-top:5px;
+	margin-right:5px;
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+}
+
+.merchantList_linkbutton2{
+	margin-top:5px;
+	margin-right:5px;
+}

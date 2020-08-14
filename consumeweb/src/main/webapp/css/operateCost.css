@@ -1,0 +1,60 @@
+/*
+操作费用设置
+*/
+
+.operateCost_toolBar .first_div{
+	margin-left:20px;
+	height:50px;
+	line-height:50px;
+}
+
+.operateCost_toolBar .first_div>a{
+	margin-right:20px;
+}
+
+.operateCost_linkbutton{
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+	margin:0 5px 5px 15px;
+}
+
+.operateCost_addCost{
+	
+}
+.operateCost_addCost>div>fieldset{
+	margin:10px 0 0 16px;
+}
+
+.operateCost_addCost>div>fieldset>legend{
+	font-weight:bold;
+	font-size:16px;
+}
+
+.operateCost_addCost>div>fieldset>div{
+	margin-top:10px;
+	margin-bottom:10px;
+}
+
+.operateCost_addCost_button_div{
+	text-align:center;
+    margin-top: 20px;
+}
+
+.operateCost_addCost_linkbutton{
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+	margin-right:20px;
+}
+
+.operateCost_addCost .operateCost_span{
+	margin-left:5px;
+	margin-right:5px;
+}
+
+.operateCost_addCost .operateCost_addCost_div{
+	margin-left:17px;
+	margin-top:10px;
+	margin-bottom:10px;
+}

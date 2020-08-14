@@ -1,0 +1,76 @@
+.cardReader_first_div{
+	background-color:rgb(248,248,248);
+	margin-top:10px;
+	margin-bottom:20px;
+	border:1px solid #dcdcdc;
+	height:35px;
+	line-height:35px;
+}
+
+.cardReader_first_div>div{
+	margin-left:30px;
+}
+
+.cardReader_first_div>div>span{
+	font-size:15px;
+	font-family:微软雅黑, Arial;
+	font-weight:bold;
+}
+
+.cardReader_second_div{
+	margin-left:50px;
+	display:inline-block;
+	vertical-align: middle;
+}
+
+.cardReader_second_div>div{
+	margin-bottom:20px;
+}
+
+.cardReader_second_div>div>span{
+	margin-right:20px;
+}
+
+.cardReader_third_div{
+	background-color:rgb(248,248,248);
+	margin-top:10px;
+	margin-bottom:50px;
+	border:1px solid #dcdcdc;
+	height:35px;
+	line-height:35px;
+}
+
+.cardReader_third_div>div{
+	margin-left:30px;
+}
+
+.cardReader_third_div>div>span{
+	font-size:15px;
+	font-family:微软雅黑, Arial;
+	font-weight:bold;
+}
+
+.cardReader_fourth_div{
+	margin-left:50px;
+	display:inline-block;
+	vertical-align: middle;
+}
+
+.cardReader_fourth_div>div{
+	margin-bottom:20px;
+}
+
+.cardReader_fourth_div>div>span{
+	margin-right:20px;
+}
+
+.cardReader_fifth_div{
+	display:inline-block;
+	vertical-align: middle;
+}
+
+.cardReader_linkbutton{
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+}

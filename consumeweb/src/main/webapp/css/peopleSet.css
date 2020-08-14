@@ -1,0 +1,164 @@
+/*
+	人群设置
+*/
+
+/*加载提示信息*/
+.people_center_div .datagrid-mask-msg{
+	margin-left:-80px;
+}
+
+.people_center_div{
+	margin-top:10px;
+}
+
+.people_center_div>div{
+	display:inline-block;
+	vertical-align: middle;
+	height:380px;
+}
+.people_center_div .odd_div{
+	border:1px solid #dcdcdc;
+}
+.people_center_div .img_div{
+	text-align:center;
+}
+
+.people_center_div .div_head{
+	background:#48A5F2;
+	height:30px;
+	color:#ffffff;
+	font-size:14px;
+	line-height:30px;
+}
+
+.people_center_div .div_head img{
+	display:inline-block;
+	vertical-align: middle;
+	margin:0 5px 2px 5px;
+}
+
+.people_center_div .div_head span{
+	display:inline-block;
+	vertical-align: middle;
+}
+
+.people_center_div .div_btn{
+	text-align:center;
+}
+
+.peopleSet_linkbutton{
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+	margin:7px;
+}
+
+.people_center_div .img_span{
+	height: 100%;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+.peopleSet_long_btn{
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+	width:150px;
+	height:35px;
+}
+
+.people_center_div .div_content{
+	margin-top:80px;
+	text-align:center;
+}
+
+.people_center_div .div_content>div:first-child{
+	margin-bottom:50px;
+}
+
+.people_center_div .div_third{
+	margin-top:30px;
+	text-align:center;
+}
+
+.people_center_div .div_third>div{
+	margin-bottom:15px;
+}
+
+.people_center_div .div_third>div:last-child{
+	margin:30px 0 0 0;
+}
+
+.people_center_div .div_third>div>span{
+	margin-right:5px;
+}
+
+.peopleSet_confirm_btn{
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+	width:80px;
+	height:80px;
+	margin-bottom:25px;
+}
+
+.people_center_div .confirm_div{
+	margin-left:30px;
+}
+
+.peopleSet_toolBar_div>div{
+	height:100%;
+	display:inline-block;
+	vertical-align: middle;
+	line-height:35px;
+	font-size:14px;
+	margin-left:15px;
+	width:100px;
+	text-align:center;
+	cursor:pointer;
+}
+
+.peopleSet_addCrowd_div>div{
+	margin-top:30px;
+}
+
+.peopleSet_addCrowd_div .peopleSet_addCrowd_span{
+	margin-left:20px;
+	margin-right:10px;
+}
+
+.peopleSet_addCrowd_linkbutton{
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+	margin:0 20px 0px 55px;
+}
+
+.peopleSet_toolBar_div .depIde_toolBar_div{
+	background:#ddd;
+	font-weight:bold;
+}
+
+.peopleSet_toolBar_div .user_toolBar_div{
+	background:#ddd;
+	font-weight:bold;
+}
+
+.column_delete_btn{
+	display:inline-block;
+	width:50px;
+	height:25px;
+	background:#FD654E;
+	color:#fff;
+	line-height:25px;
+	cursor:pointer;
+	margin:5px 0 5px 0; 
+	-moz-border-radius: 3px; 
+	-webkit-border-radius: 3px; 
+	border-radius: 3px;
+}
+
+.column_delete_btn:hover{
+	background:#ffe48d;
+	color:#000;
+}

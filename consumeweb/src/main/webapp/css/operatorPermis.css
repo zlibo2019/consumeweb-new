@@ -1,0 +1,59 @@
+/*
+操作员授权
+*/
+
+/*设置按钮*/
+.column_setting_btn{
+	display:inline-block;
+	width:50px;
+	height:25px;
+	background:#2274B9;
+	color:#fff;
+	line-height:25px;
+	cursor:pointer;
+	margin:5px 0 5px 0; 
+	-moz-border-radius: 3px; 
+	-webkit-border-radius: 3px; 
+	border-radius: 3px;
+}
+
+.opPermis{
+	/*width:300px;*/
+	height:30px;
+	border: 1px solid #dcdcdc;
+}
+/*操作员授权tab*/
+.opPermis .oper_list{
+	display:inline-block;
+	vertical-align: middle;
+	height:100%;
+	width:150px;
+	text-align:center;
+	font-size:14px;
+	line-height:30px;
+	cursor:pointer;
+	background:#2274B9;
+	color:#ffffff;
+}
+/*商户授权tab*/
+.opPermis .commer_list{
+	display:inline-block;
+	vertical-align: middle;
+	height:100%;
+	width:150px;
+	text-align:center;
+	font-size:14px;
+	line-height:30px;
+	cursor:pointer;
+}
+/*IP授权tab*/    
+.opPermis .ip_list{
+	display:inline-block;
+	vertical-align: middle;
+	height:100%;
+	width:150px;
+	text-align:center;
+	font-size:14px;
+	line-height:30px;
+	cursor:pointer;
+}

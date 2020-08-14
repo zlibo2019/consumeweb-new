@@ -1,0 +1,108 @@
+/*
+账户管理
+*/
+
+.accountManage_toolBar_second{
+	margin-top:10px;
+}
+
+.accountManage_toolBar_second>div{
+	display:inline-block;
+	vertical-align: middle;
+	height:80px;
+}
+
+.accountManage_toolBar_second>div:first-child{
+	margin-right:15px;
+	margin-left:15px;
+}
+
+.accountManage_toolBar_second>div>a{
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+}
+
+.accountManage_toolBar_second>div>div>a{
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+}
+
+.accountManage_toolBar_second>div>a:first-child{
+	margin-right:15px;
+}
+
+.accountManage_toolBar_second .toolBar_div_first{
+	margin-bottom:15px;
+}
+
+.accountManage_toolBar_second .toolBar_div_first>span{
+	margin-right:5px;
+}
+
+.accountManage_toolBar_second .toolBar_div_second>span{
+	margin-right:5px;
+}
+
+.accountManage_toolBar_second .toolBar_div_fourth{
+	margin-bottom:15px;
+}
+
+.accountManage_toolBar_second .toolBar_div_fourth>span{
+	margin-right:5px;
+}
+
+.accountManage_toolBar_second .toolBar_div_fifth>span{
+	margin-right:5px;
+}
+
+.accountManage_south_div{
+	text-align:center;
+	position:relative;
+}
+
+.accountManage_linkbutton{
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+	margin-top:20px;
+	margin-right:10px;
+}
+
+.accountManage_linkbutton1{
+	position:absolute;
+	right:130px;
+	top:30px;
+}
+
+.accountManage_linkbutton2{
+	position:absolute;
+	right:40px;
+	top:30px;
+}
+
+.accountManage_checkbox{
+	vertical-align:middle; 
+	margin-top:-2px; 
+}
+
+.accountManage_resetPwd_div>div{
+	margin-top:20px;
+	text-align:center;
+}
+
+.accountManage_resetPwd_nameDiv{
+	margin-bottom:20px;
+}
+
+.accountManage_resetPwd_div .accountManage_resetPwd_span{
+	margin-right:10px;
+}
+
+.accountManage_resetPwd_linkbutton{
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+	margin:0 20px 0px 0px;
+}

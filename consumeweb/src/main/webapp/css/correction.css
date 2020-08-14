@@ -1,0 +1,68 @@
+/*
+补贴发放纠错
+*/
+.correction_toolBar_second{
+	height:50px;
+	/* margin-bottom:20px; */
+	/* border-top:1px solid #DCDCDC; */
+	/* border-bottom:1px solid #DCDCDC; */
+}
+
+.correction_toolBar_second>div{
+	margin:12px 0 0 15px;
+	display:inline-block;
+}	
+
+.correction_toolBar_second>div>span{
+	margin-right:5px;
+}
+
+.correction_toolBar_second .div_first>div>span{
+	margin-right: 5px;
+}
+
+.correction_linkbutton{
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+	margin:0 5px 0 5px;
+}
+
+.correction_addCorr_firstDiv{
+	margin:20px 0 0 10px;
+}
+
+.correction_addCorr_secondDiv{
+	border:1px solid #dcdcdc;
+	margin:5px 10px 0 10px;
+	padding:5px;
+}
+
+.correction_addCorr_secondDiv>div{
+	margin-top:5px;
+	margin-bottom:5px;
+}
+
+.correction_addCorr_secondDiv>div>span{
+	margin-left:7px;
+}
+
+.correction_addCorr_secondDiv>div>div>span{
+	margin-left:7px;
+}
+
+.correction_addCorr_thirdDiv{
+	margin-top:20px;
+	text-align:center;
+}
+
+.correction_addCorr_thirdDiv>a:first-child{
+	margin-right:20px;
+}
+
+.correction_addCorr_checkbox{
+	vertical-align:middle; 
+	margin-top:-2px; 
+}
+
+

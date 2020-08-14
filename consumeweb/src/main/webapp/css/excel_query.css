@@ -1,0 +1,51 @@
+/*
+导入结果查询
+*/
+.excel_query_toolBar_second{
+	height:35px;
+	/*line-height:50px;*/
+}
+.excel_query_toolBar_second>div{
+	float:left;
+	margin-top:6px;
+}
+
+.excel_query_toolBar_second>div:last-child{
+	float:left;
+	margin-top:3px;
+}
+
+.excel_query_toolBar_second .div_first{
+	margin-left:50px;
+}
+
+.excel_query_toolBar_second .div_first>div>span{
+	margin-right:5px;
+}
+
+.excel_query_toolBar_second .div_second{
+	margin-left:30px;
+}
+.excel_query_toolBar_second>div>span{
+	margin-right:5px;
+}	
+.excel_query_linkbutton{
+	margin-left:50px;
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+	margin-bottom:20px;
+	margin-top:20px;
+}
+
+.excel_query_chaxun{
+	margin-left:10px;
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+}
+
+.excel_query_div{
+	display:inline-block;
+	vertical-align: middle;
+}

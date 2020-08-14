@@ -1,0 +1,383 @@
+/*
+发放结果
+*/
+.provide_subsidyResultdiv{
+	height:100%;
+	font-size:23px;
+}
+.provide_subsidyResult_button{
+	float:right;
+	margin-top:20px;
+}
+.provide_subsidyResult_button_save{
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+	margin:0 5px 0 35px;
+}
+.provide_subsidyResult_button_other{
+	margin-right:10px;
+}
+.provide_subsidyResult_text{
+	color:#c9c9c9;
+
+}
+.provide_subsidyResult_number{
+	color:#FBBC6C;
+	margin-right:10px;
+	margin-left:10px;
+}
+/*
+补贴导入
+*/
+.provide_excelSubsidy{
+	
+}
+
+.provide_excelSubsidy_choose_file>div>span>a{
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+}
+
+.provide_excelSubsidy>fieldset{
+	margin:10px 0 0 16px;
+}
+
+.provide_excelSubsidy>fieldset>legend{
+	font-weight:bold;
+	font-size:16px;
+}
+
+.provide_excelSubsidy>fieldset>div{
+	margin:20px 0 0 0;
+}
+
+.provide_excelSubsidy>fieldset>div>div{
+	margin:10px 0 5px 15px;
+}
+
+.provide_excelSubsidy>fieldset>div>div>label{
+	width:63px;
+	height:21px;
+	margin:0 5px 0 5px;
+	padding-top:6px;
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+}
+
+.provide_excelSubsidy>fieldset>div>div>a{
+	margin-left:5px;
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+}
+
+.provide_excelSubsidy_file_input{
+	position: absolute;
+	top: -999px;
+	left: -999px;
+}
+
+
+.provide_excelSubsidy_linkbutton{
+	margin-left:50px;
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+	margin-bottom:20px;
+	margin-top:20px;
+	width:63px;
+	height:23px;
+	margin:0 5px 0 5px;
+	padding-top:5px;
+}
+
+
+.provide_excelSubsidy_resultWin_linkbutton{
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+	margin-top:5px;
+}
+
+.provide_excelSubsidy_resultWin_btn_div{
+	text-align:center;
+}
+
+.provide_excelSubsidy_resultWin_btn_div a{
+	margin-right:10px;
+}
+
+/*
+补贴录入
+*/
+
+.provide_addSubsidy{
+	
+}
+.provide_addSubsidy>fieldset{
+	margin:10px 0 0 7px;
+}
+
+.provide_addSubsidy>fieldset>legend{
+	font-weight:bold;
+	font-size:16px;
+}
+
+.provide_addSubsidy>fieldset>div{
+	margin-left:5px;
+	margin-top:10px;
+}
+.provide_addSubsidy>fieldset>div>div:first-child{
+	margin-left:10px;
+}
+.provide_addSubsidy1>div>div>span{
+	font-size:14px;
+	margin-right:5px;
+}
+
+.provide_addSubsidy_button{
+	text-align:center;
+    margin-top: 25px;
+}
+.provide_addSubsidy_fu{
+    margin-top: 15px;
+}
+.provide_addSubsidy_fu>input{
+	margin-right:5px;
+}
+.provide_addSubsidy_moneybut{
+	margin-left:10px;
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+}
+.provide_addSubsidy_dfloat{
+	display:inline-block;
+	vertical-align: middle;
+}
+
+.provide_addSubsidy .dep_tree{
+	border:1px solid #dcdcdc;	
+}
+
+.provide_addSubsidy .dep_list{
+	display:inline-block;
+	vertical-align: middle;
+	height:100%;
+	width:50%;
+	text-align:center;
+	font-size:18px;
+	line-height:40px;
+	background:#2274B9;
+	color:#ffffff;
+	cursor:pointer;
+}
+
+.provide_addSubsidy .provide_datagrid_footer{
+	float: right;
+	height: 30px;
+	margin-top: -28px;
+	font-size: 15px;
+	font-weight: bold;
+	margin-right: 3px;
+	line-height: 30px;
+	background: #F4F4F4;
+}
+
+.provide_addSubsidy .provide_datagrid_footer>span:first-child{
+	margin-left:10px;
+}
+
+.provide_addSubsidy .provide_datagrid_footer .footer_span{
+	margin-left:5px;
+}
+
+.provide_addSubsidy .provide_datagrid_footer .font{
+	color:red;
+}
+
+.provide_addSubsidy .emp_list{
+	display:inline-block;
+	vertical-align: middle;
+	height:100%;
+	width:50%;
+	text-align:center;
+	font-size:18px;
+	line-height:40px;
+	cursor:pointer;
+}
+
+
+.provide_addSubsidy_dfloat .dep_search{
+	border-top:2px solid #dcdcdc;	
+	border-bottom:2px solid #dcdcdc;	
+	padding-top:8px;
+	text-align:center;
+}
+
+.provide_addSubsidy_result{
+	color:#458BCD;
+	font-size:26px;
+}
+.provide_addSubsidy_result_text{
+	font-size:26px;
+}
+.provide_addSubsidy_moneytext{
+	display:inline-block;
+	vertical-align: middle;
+	color:#3064CC;
+	font-size:25px; 
+	margin-left: 70px;
+}
+.provide_addSubsidy_userselbut{
+	margin-top:15px;
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+}
+.provide_addSubsidy_userselbutd{
+	margin:0 5px 40px 5px;
+}
+/*
+补贴发放
+*/
+
+.provide_addRule{
+	
+}
+.provide_addRule>fieldset{
+	margin:10px 0 0 16px;
+}
+
+.provide_addRule>fieldset>legend{
+	font-weight:bold;
+	font-size:16px;
+}
+
+.provide_addRule>fieldset>div{
+	margin:10px 0 0 0;
+}
+
+.provide_addRule>fieldset>div>div{
+	margin:10px 0 5px 35px;
+}
+
+.provide_addRule>fieldset>div>div>span{
+	font-size:14px;
+	margin-right:5px;
+}
+
+.provide_addRule>fieldset>div>div>div>span{
+	margin-right:5px;
+}
+
+.provide_addRule>fieldset>div>div>span:first-child{
+	margin-right:20px;
+}
+
+.provide_addRule>div{
+}
+
+.provide_addRule>div>a{
+	margin-right:15px;
+}
+.provide_addRule_button{
+	text-align:center;
+    margin-top: 25px;
+}
+
+.provide_toolBar_first>div{
+	/*margin-top:30px;*/
+}
+
+.provide_toolBar_first .toolImage{
+	margin-top:3px;
+}
+
+.provide_toolBar_first .linkBtn{
+	margin-top:6px;
+}
+
+.provide_toolBar_first .divThree{
+	margin-left:20px;
+	margin-top:18px;
+}
+
+.provide_toolBar_first .divEight{
+	margin-top:10px;
+}
+
+.provide_toolBar_first>div>div{
+	display:inline-block;
+	vertical-align: middle;
+	margin-left:14px;
+	text-align:center;
+	/*margin-top:9px;*/
+}
+
+.provide_toolBar_first>div>div img{
+	margin-bottom:3px;
+}
+
+.provide_toolBar_first>div>div>a{
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+	margin:18px 5px 0px 5px;
+}	
+
+.provide_toolBar_second{
+	height:50px;
+	margin-bottom:5px;
+	border-top:1px solid #DCDCDC;
+	border-bottom:1px solid #DCDCDC;
+}
+
+.provide_toolBar_second>div{
+	margin:12px 0 0 15px;
+}
+
+.provide_toolBar_second>div>span{
+	margin-left:5px;
+}
+
+.provide_toolBar_second>div>span:first-child{
+	margin-right:20px;
+	font-weight:bold;
+}
+
+.provide_toolBar_third{
+	margin-bottom:5px;
+}
+
+.provide_toolBar_third>div{
+	display:inline-block;
+	vertical-align: middle;
+	margin-right:15px;
+}
+
+.provide_toolBar_third>div>div{
+	display:inline-block;
+}
+
+.provide_toolBar_third>div>div>a{
+	margin-left:20px;
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+}
+
+.provide_linkbutton{
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+	margin:0 5px 0 5px;
+}
+
+.provide_addSubsidy_checkbox{
+	vertical-align:middle; 
+	margin-top:-2px; 
+}

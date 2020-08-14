@@ -1,0 +1,150 @@
+/*
+ 报表模版设计
+*/
+
+.report_toolbar{
+	text-align:center;
+}
+
+.report_toolbar .div_doctype{
+	text-align: center;
+}
+
+
+.report_table{
+	
+}
+
+
+.report_table td{
+	cursor: pointer;
+}
+
+
+
+.report_table td.selected{
+	background-color: yellow;
+}
+
+
+.report_span_btn{
+	margin:auto 6px auto 6px;
+	padding:6px;
+	text-align:center;
+	cursor: pointer;
+	line-height:24px;
+}
+
+.report_span_btn:HOVER{
+	background-color: yellow;
+}
+
+.table_edit_btns {
+	text-align:center;
+}
+
+.table_edit_btns .l-btn{
+	margin:3px 6px 3px 6px;
+	padding:0 6px 0 6px;
+}
+
+.table_edit_fieldset{
+	text-align:left;
+	margin:5px;
+	padding:3px;
+}
+
+.table_edit_fieldset > legend{
+	margin-left:20px;
+	font-size:14px;
+	font-weight:700;
+}
+
+.table_edit_fieldset > legend > input{
+	vertical-align: middle;
+}
+
+.table_total_form > div{
+	margin:3px auto 3px auto;
+}
+.table_total_form span.label{
+	margin:auto 10px auto 10px;
+}
+
+/*统一修改了工具栏间距，表格实线*/
+.datagrid-toolbar-div > span{
+	margin-left:15px;
+}
+.datagrid-toolbar-div > span[class]{
+	margin-left:7px;
+}
+.datagrid-toolbar-div > a{
+	margin-left:15px;
+}
+
+.datagrid .datagrid-header td,
+.datagrid .datagrid-body td,
+.datagrid .datagrid-footer td{
+	border-style:solid;
+}
+
+/*****报表打印模板********/
+.report_print{
+	margin:auto;
+}
+
+@media print {
+	.report_no_print{
+		display:none;
+	}
+}
+
+.report_print .font10{
+	font-size:12px;
+	text-align:center;
+	font-weight:700;
+}
+
+.report_print .font12{
+	font-size:14px;
+	text-align:center;
+	font-weight:700;
+}
+
+.report_print div.title{
+	font-size:24px;
+	text-align:center;
+	font-weight:700;
+}
+
+.report_print table{
+	width:99%;
+	table-layout: fixed;
+	border-collapse: collapse;
+	margin:auto;
+}
+
+.report_print table.content{
+	table-layout1: auto;
+}
+
+.report_print table.header{
+	margin:5px auto 5px auto;
+	width:99%;
+}
+
+.report_print table.header td{
+	border:none;
+}
+
+.report_print table.content th{
+	border:1px solid #000;
+	font-size:16px;
+	text-align:center;
+}
+
+.report_print table.content > tbody td{
+	border:1px solid #000;
+	text-align:center;
+	font-size:14px;
+}

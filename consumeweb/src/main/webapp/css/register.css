@@ -1,0 +1,67 @@
+/*
+商户注册
+*/
+.register_toolBar_second{
+	height:50px;
+	margin-bottom:20px;
+	border-top:1px solid #DCDCDC;
+	border-bottom:1px solid #DCDCDC;
+}
+
+.register_toolBar_second>div{
+	margin:12px 0 0 15px;
+	display:inline-block;
+}
+
+.register_toolBar_third{
+	margin-top:10px;
+}
+
+.register_toolBar_third>div{
+	display:inline-block;
+	vertical-align: middle;
+	height:80px;
+}
+
+.register_toolBar_third_div{
+	margin-bottom:15px;
+}
+
+.register_toolBar_third_div .register_span{
+	margin-left:5px;
+	margin-right:5px;
+}
+
+.register_linkbutton{
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+	margin:0 5px 0 5px;
+}
+
+.manage_toolBar_third{
+	margin-top:10px;
+	margin-bottom:10px;
+	margin-left:20px;
+}
+
+.manage_toolBar_third>div{
+	display:inline-block;
+	vertical-align: middle;
+}
+
+.manage_toolBar_second{
+	margin-left:150px;
+}
+.manage_toolBar_second>div{
+	float:left;
+}
+.manage_toolBar_second>div>input{
+	margin-left:10px;
+	margin-right:5px;
+}
+
+.manage_checkbox{
+	vertical-align:middle; 
+	margin-top:-2px; 
+}

@@ -1,0 +1,24 @@
+/*
+自定义组件样式
+*/
+
+.progress_bar table{
+	width:100%;
+	height:100%;
+}
+
+.progress_bar div.bar{
+	background-color:rgb(177,216,252);
+	position: absolute;
+	left:0;
+	top:0;
+	bottom:0;
+}
+
+.progress_bar div.bar_text{
+	position: relative;
+	overflow: hidden;
+	text-align:center;
+	color:red;
+}
+

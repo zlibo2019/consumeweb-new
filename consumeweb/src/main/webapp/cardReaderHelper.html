@@ -1,0 +1,87 @@
+<!-- 读卡器设置帮助文档 -->
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>读卡器设置帮助文档</title>
+<style type="text/css">
+	.help_title{
+		font-weight:bold;
+		text-align:center;
+		font-size:25px;
+	}
+	
+	.help_question{
+		font-weight:bold;
+		color:red;
+		margin:50px 0 5px 0;
+	}
+	
+	.help_content1{
+		font-weight:bold;
+		margin:10px 0 10px 0;
+	}
+	
+	.help_content2{
+		text-indent:2em;
+	}
+	
+	.help_content3{
+		margin-left:2em;
+	}
+	
+</style>
+</head>
+<body style="font-family: 微软雅黑, Arial;">
+	<div class="help_title">卡片操作常见问题及解决办法</div>
+	
+	<div class="help_question">1 确定HID协议发卡器或串口协议发卡器的方法</div>
+	<div class="help_content2">查看发卡器底部标签，型号带HID字样，为HID协议发卡器，其它为串口协议发卡器。若底部标签看不清楚，外壳颜色为白色的为HID协议发卡器，其它为串口协议发卡器</div>
+	
+
+<div class="help_question">2 串口操作失败</div>
+<div class="help_content1">现象：</div>
+<div class="help_content2">使用威尔系列IC卡读卡器或CPU卡读卡器时，点击读卡或其它卡片操作（发卡、补卡、解挂、更新卡片有效期、重置卡片密码、退卡等）时，提示串口操作失败</div>
+
+<div class="help_content1">问题原因及解决办法:</div>
+<div class="help_content2">请检查发卡器电源指示灯是否点亮，若未点亮，请使用发卡器自带的USB连接线将发卡器连接到电脑USB口（若为台式电脑，为了连接稳定，建议连接到电脑机箱后部USB插口，注意插入方向以免插坏USB接口），然后再试。若已点亮，根据协议类型分别进行检查。</div>
+
+<div class="help_content1">HID协议发卡器检查步骤：</div>
+<div class="help_content3">
+1、	拔下发卡器USB插头，3秒钟后再重新插好，重新读卡看问题是否解决。若仍提示串口操作失败，则继续以下步骤<br/>
+2、	检查USB线是否连接松动（两端均检查），若松动，请重新插好，然后重新读卡测试<br/>
+3、	更换USB口进行读卡测试。若为台式电脑，且接入前面板USB口，请更换到电脑机箱后部USB口，进行读卡测试<br/>
+4、	若问题仍没有解决，请将发卡器连接到其它电脑进行测试，若仍报同样的错误，可能是系统存在问题，重新接入原电脑，重启系统重试<br/>
+5、	若有其它正常使用的HID协议发卡器，请接入此发卡器进行测试<br/>
+6、	若仍存在问题，请检查系统或联系技术人员处理<br/>
+</div>
+
+<div class="help_content1">串口协议发卡器检查步骤：</div>
+<div class="help_content3">
+1、	若本机首次使用读卡器，请在读卡器管理页面下载驱动并安装，驱动安装成功后设置设置为对应型号的发卡器，选择正确的串口，保存后测试读卡，一般问题能解决<br/>
+2、	检查是否本电脑打开了有关卡片工具软件，若打开，关闭后进行读卡测试<br/>
+3、	检查读卡器管理页面主机接口类型是否为COM（串口），若不是请重新设置用户发卡器类型与发卡器一致，重新选择正确的串口号（一般为连续的两个串口号较小的一个），保存后测试发卡<br/>
+4、	拔下发卡器USB插头，3秒钟后再重新插好进行读卡测试<br/>
+5、	读卡器管理页面下载驱动，重新安装驱动或重启电脑后进行测试<br/>
+6、	若问题仍未解决，请联系技术人员处理<br/>
+</div>
+
+<div class="help_question">3 提示无卡或卡片未连接</div>
+<div class="help_content1">现象：</div>
+<div class="help_content2">使用威尔系列IC卡读卡器或CPU卡读卡器时，点击读卡或其它卡片操作（发卡、补卡、解挂、更新卡片有效期、重置卡片密码、退卡等）时，提示无卡或卡片未连接</div>
+
+<div class="help_content1">问题原因及解决办法：</div>
+<div class="help_content3">
+1、	请确定卡片类型是否正确，或卡片是否损坏<br/>
+2、	检查发卡器临近或发卡器底部有其它卡片，若存在多张卡片，请移开其它卡片后读卡测试<br/>
+3、	检查附近是否存在工作状态的其它电子设备，特别是身份证阅读器、门禁读头、考勤机、消费机等机具、其它读卡器等<br/>
+4、	检查本电脑是否接入了多个发卡器，请移除多余的发卡器后读卡测试<br/>
+5、	检查读卡器管理页面用户卡读卡器设置是否与实际一致，若不一致请正确设置<br/>
+6、	若条件允许，与其它电脑或发卡器交换进行测试，以排除电脑或设备问题<br/>
+7、	若为串口协议读卡器，请重新设置串口号（一般为连续的两个串口号较小的一个）进行读卡测试（各个串口均试试，能读到卡的为正确的串口号）<br/>
+8、	拔下发卡器USB插头，3秒钟后再重新插好进行读卡测试<br/>
+9、	若问题仍未解决，请联系技术人员处理<br/>
+</div>
+
+</body>
+</html>

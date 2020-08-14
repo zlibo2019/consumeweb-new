@@ -1,0 +1,97 @@
+/*
+批量充值
+*/
+.batchCharge_toolBar_second{
+	height:50px;
+	margin-bottom:20px;
+	border-bottom:1px solid #DCDCDC;
+}
+
+.batchCharge_toolBar_second>div{
+	margin:12px 0 0 5px;
+	display:inline-block;	
+}
+.batchCharge_toolBar_second>div>a{
+	margin-left:5px;
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+}
+
+.batchCharge_toolBar_second>div>label{
+	width:63px;
+	height:24px;
+	margin:0 5px 0 0;
+	padding-top:7px;
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+}
+
+.batchCharge_toolBar_second>div>span{
+	margin-right: 40px;
+}
+
+.batchCharge_toolBar_second>div>span>a{
+	background: #2274B9;
+    color: #ffffff;
+    filter: none;
+}
+
+.batchCharge_toolBar_third{
+	margin-bottom:10px;
+}
+
+.batchCharge_toolBar_third .first_div{
+	margin-left:10px;
+}
+
+.batchCharge_toolBar_third .first_div div:first-child{
+	margin-bottom:15px;
+}
+
+.batchCharge_toolBar_third .first_div .first_div_span{
+	margin-left:5px;
+	margin-right:5px;
+}
+
+.batchCharge_toolBar_third>div{
+	display:inline-block;
+	vertical-align: middle;
+	height:80px;
+}
+
+.batchCharge_toolBar_third>div:first-child{
+	margin-right:20px;
+}
+
+.batchCharge_toolBar_third>div>a{
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+}
+
+.batchCharge_south_div{
+	text-align:center;
+	position:relative;
+}
+
+.batchCharge_linkbutton{
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+	margin-top:20px;
+	margin-right:10px;
+}
+
+.batchCharge_linkbutton1{
+	position:absolute;
+	right:130px;
+	top:30px;
+}
+
+.batchCharge_linkbutton2{
+	position:absolute;
+	right:40px;
+	top:30px;
+}

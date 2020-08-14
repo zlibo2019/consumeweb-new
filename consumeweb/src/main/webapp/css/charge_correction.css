@@ -1,0 +1,148 @@
+/**
+*充值
+*/
+
+.charge_correction_linkbutton{
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+	margin-top:20px;
+	margin-right:50px;
+}
+
+
+.charge_correction_chaxun{
+	margin-left:5px;
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+}
+
+.charge_correction_line{
+	font-weight:bold;
+	background-color:rgb(248, 248, 248);
+	height:35px;
+	line-height:35px;
+	border-top:1px solid #DCDCDC;
+	border-bottom:1px solid #DCDCDC;
+	border-right: 1px solid #DCDCDC;
+}
+.charge_correction_line>span{
+	margin-left:20px;
+}
+.charge_correction_userinfo{
+	margin-top:24px;
+}
+.charge_correction_div{
+	width:390px;
+	display:inline-block;
+	vertical-align: middle;
+}
+.charge_correction_div>div{
+	margin-bottom:15px;
+	float:left;
+	height: 30px;
+    line-height: 30px;
+}
+.charge_correction_div .charge_correction_div_span{
+	margin-left:5px;margin-right:5px;
+}
+.charge_correction_center_bottom{
+	height:95%;
+	border-bottom:1px solid #DCDCDC;
+}
+.charge_correction_center_bottom_left_div1{
+	font-size:16px;
+	height: 120px;
+    line-height: 200px;
+}
+.charge_correction_beforetext{
+	margin-left:20px;
+	margin-right:5px;
+	font-weight:bold;
+}
+.charge_correction_beforemoeny{
+	margin-right:5px;
+	font-size:25px;
+	color:gray;
+}
+.charge_correction_after{
+	margin-top:70px;
+	font-size:16px;
+}
+.charge_correction_aftertext{
+	margin-left:20px;
+	margin-right:5px;
+	font-weight:bold;
+}
+.charge_correction_aftermoney{
+	margin-right:5px;
+	font-size:25px;
+	color:red;
+}
+.charge_correction_inputmoney{
+	margin-top:70px;
+}
+.charge_correction_inputmoney>span:first-child{
+	margin-left:20px;
+	margin-right:5px;
+}
+.charge_correction_input_button{
+	margin-left:110px;
+	margin-top:10px;
+}
+.charge_correction_other{
+	margin-top:50px;
+}
+.charge_correction_other>div>div>input{
+	margin-left:20px;
+	margin-right:5px;
+}
+.charge_correction_south{
+	text-align:center;
+	position:relative;
+}
+.charge_correction_button_batch{
+	position:absolute;
+	right:220px;
+	top:30px;
+}
+.charge_correction_button_print{
+	position:absolute;
+	right:130px;
+	top:30px;
+}
+.charge_correction_button_cancel{
+	position:absolute;
+	right:40px;
+	top:30px;
+}
+
+.charge_correction_searchWin{
+	text-align:center;
+}
+
+.charge_correction_searchWin>fieldset{
+	margin:10px 0 0 10px;
+}
+
+.charge_correction_searchWin>fieldset>legend{
+	font-weight:bold;
+	font-size:16px;
+	text-align:left;
+}
+
+.charge_correction_searchWin>div:last-child{
+	margin-top:10px;
+}
+
+.charge_correction_searchWin_linkbutton{
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+}
+
+.charge_correction_checkbox{
+	vertical-align:middle; 
+	margin-top:-2px; 
+}

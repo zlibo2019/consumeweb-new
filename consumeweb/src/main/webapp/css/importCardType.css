@@ -1,0 +1,92 @@
+/*
+卡号导入
+*/
+.cardNumImp_toolBar_second{
+	height:50px;
+	margin-bottom:20px;
+	border-bottom:1px solid #DCDCDC;
+}
+
+.cardNumImp_toolBar_second>div{
+	margin:12px 0 0 5px;
+	display:inline-block;	
+}
+.cardNumImp_toolBar_second>div>a{
+	margin-left:5px;
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+}
+
+.cardNumImp_toolBar_second>div>label{
+	width:63px;
+	height:24px;
+	margin:0 5px 0 0;
+	padding-top:7px;
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+}
+
+.cardNumImp_toolBar_second>div>span{
+	margin-right: 40px;
+}
+
+.cardNumImp_toolBar_second>div>span>a{
+	background: #2274B9;
+    color: #ffffff;
+    filter: none;
+}
+
+.cardNumImp_south_div{
+	text-align:center;
+	position:relative;
+}
+
+.cardNumImp_linkbutton{
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+	margin-top:20px;
+	margin-right:10px;
+}
+
+.cardNumImp_addCost{
+	
+}
+.cardNumImp_addCost>div>fieldset{
+	margin:10px 0 0 16px;
+}
+
+.cardNumImp_addCost>div>fieldset>legend{
+	font-weight:bold;
+	font-size:16px;
+}
+
+.cardNumImp_addCost>div>fieldset>div{
+	margin-top:10px;
+	margin-bottom:10px;
+}
+
+.cardNumImp_addCost_button_div{
+	text-align:center;
+    margin-top: 20px;
+}
+
+.cardNumImp_addCost_linkbutton{
+	background:#2274B9;
+	color:#ffffff;
+	filter:none;
+	margin-right:20px;
+}
+
+.cardNumImp_addCost .operateCost_span{
+	margin-left:5px;
+	margin-right:5px;
+}
+
+.cardNumImp_addCost .cardNumImp_addCost_div{
+	margin-left:17px;
+	margin-top:10px;
+	margin-bottom:10px;
+}
